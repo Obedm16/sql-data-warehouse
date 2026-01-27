@@ -1,13 +1,18 @@
 # SQL Data Warehouse Project
 This repository show case work on SQL Server to build modern Data Warehouse, ETL processes, data modelling and reporting analytics
 
-This project involves:
+## 📌 Project Overview
 
-**Data Architecture**: Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.
-**ETL Pipelines**: Extracting, transforming, and loading data from source systems into the warehouse.
-**Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
-**Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable insights.
+This repository showcases work using **SQL Server** to build a modern **Data Warehouse**, including ETL processes, data modeling, and analytical reporting.
 
+## 🔍 Project Scope
+
+This project covers:
+
+- **Data Architecture:** Designing a modern data warehouse using the **Medallion Architecture** (Bronze, Silver, and Gold layers).
+- **ETL Pipelines:** Extracting, transforming, and loading data from source systems into the data warehouse.
+- **Data Modeling:** Developing fact and dimension tables optimized for analytical and reporting workloads.
+- **Analytics & Reporting:** Creating SQL-based reports and dashboards to generate actionable business insights.
 
 ## 📁 Project Structure
 
