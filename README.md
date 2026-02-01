@@ -14,8 +14,10 @@ This project covers:
 - **Data Modeling:** Developing fact and dimension tables optimized for analytical and reporting workloads.
 - **Analytics & Reporting:** Creating SQL-based reports and dashboards to generate actionable business insights.
 
-## 📁 Project Structure
 
+![Uploading High Level Architecture.drawio.png…]()
+
+## 📁 Project Structure
 ```text
 data-warehouse-project/
 │
