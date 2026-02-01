@@ -15,7 +15,7 @@ This project covers:
 - **Analytics & Reporting:** Creating SQL-based reports and dashboards to generate actionable business insights.
 
 
-<img src="/Obedm16/Obedm16/sql-data-warehouse/raw/main/docs/high_level_architecture.png" Alt="Data Architecture" style="max-width: 100%"/>
+<img src="\Obedm16\Obedm16\sql-data-warehouse\raw\main\docs\high_level_architecture.png" Alt="Data Architecture" style="max-width: 100%">
 
 ## 📁 Project Structure
 ```text
