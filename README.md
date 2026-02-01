@@ -15,7 +15,8 @@ This project covers:
 - **Analytics & Reporting:** Creating SQL-based reports and dashboards to generate actionable business insights.
 
 
-<img src="docs/high_level_architecture.png" alt="Data Architecture" width="100%">
+![Data Architecture](docs/high_level_architecture.png)
+
 
 
 ## 📁 Project Structure
